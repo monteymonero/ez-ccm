@@ -1,5 +1,5 @@
 CCM for x86
-# EZ-Crypto Currency Miner (Based on Ubuntu MATE 16.04.03 Xenial Xerus)
+# EZ-Crypto Coin Miner (Based on Ubuntu MATE 16.04.03 Xenial Xerus)
 
 This is a work in progress that is meant to document the procvess to create a simple way to turn any machine into a Crypto Coin Miner. At this point, this is based on using [Ubuntu-MATE](https://ubuntu-mate.org/); not because Ubuntu MATE is superior but because it was what I was most familiar using.
 
