@@ -37,4 +37,9 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
 ### Things to adjust:
         vm.swapiness=10
         vm.hf_hugepages=512
-        create user
+        create user 
+            adduser ccminer
+            usermod -aG sudo ccminer
+            Edit /etc/sudoers with visudo
+            
+            
