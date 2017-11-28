@@ -23,3 +23,19 @@ If you find an issue, I would appriciate you letting me know via email monteymon
 
 ### CUBIC
 Cubic is an acronym for a GUI application to create a customized bootable Ubuntu Live CD (ISO) image. Custom Ubuntu ISO Creator, a GUI application to create a customized bootable Ubuntu Live CD (ISO) image.
+
+
+things to install:
+
+htop
+nmon
+screen
+mc
+tree
+openssh
+
+
+things to adjust:
+vm.swapiness=10
+vm.hf_hugepages=512
+create user
