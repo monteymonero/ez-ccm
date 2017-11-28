@@ -32,6 +32,7 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
         mc
         tree
         openssh
+            Port 22022
 
 
 ### Things to adjust:
