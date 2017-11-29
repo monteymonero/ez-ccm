@@ -44,4 +44,13 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
             usermod -aG sudo ccminer
             Edit /etc/sudoers with visudo
             
+         Enable Auto-login
+         Create File: nano /etc/lightdm/lightdm.conf.d/60-lightdm-gtk-greeter.conf
+         Insert Following into file:
+         [SeatDefaults]
+         greeter-session=lightdm-gtk-greeter
+         autologin-user=ccminer 
+         autologin-user-timeout=0
+
+            
             
