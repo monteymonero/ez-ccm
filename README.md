@@ -35,7 +35,10 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
         minicom
         openssh
             Port 22022
-        #gcc 7.1#
+    # gcc 7.1
+    sudo add-apt-repository ppa:jonathonf/gcc-7.1
+    sudo apt-get update
+    sudo apt-get install gcc-7 g++-7
 ### Things to adjust:
         vm.swapiness=10
         vm.nr_hugepages=512
