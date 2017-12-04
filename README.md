@@ -31,10 +31,11 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
         screen
         mc
         tree
+        tmux
+        minicom
         openssh
             Port 22022
-
-
+        #gcc 7.1#
 ### Things to adjust:
         vm.swapiness=10
         vm.nr_hugepages=512
