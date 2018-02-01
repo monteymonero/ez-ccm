@@ -1,5 +1,5 @@
 CCM for x86
-# EZ-Crypto Coin Miner (Ubuntu Server 16.04.03 "Xenial Xerus")
+# EZ-Crypto Miner (Ubuntu Server 16.04.03 "Xenial Xerus")
 
 This is a WIP that is meant to document the process to create a simple way to boot a computer via PXE/USB and have it participate in Crypto Mining. At this point, this is based on using [Ubuntu Server](https://ubuntu.org/); not because Ubuntu is superior but because it was what I was most familiar using.
 
