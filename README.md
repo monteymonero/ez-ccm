@@ -1,9 +1,9 @@
 CCM for x86
-# EZ-Crypto Coin Miner (Based on Ubuntu MATE 16.04.03 Xenial Xerus)
+# EZ-Crypto Coin Miner (Ubuntu Server 16.04.03 "Xenial Xerus")
 
-This is a work in progress that is meant to document the procvess to create a simple way to turn any machine into a Crypto Coin Miner. At this point, this is based on using [Ubuntu-MATE](https://ubuntu-mate.org/); not because Ubuntu MATE is superior but because it was what I was most familiar using.
+This is a WIP that is meant to document the process to create a simple way to boot a computer via PXE/USB and have it participate in Crypto Mining. At this point, this is based on using [Ubuntu Server](https://ubuntu.org/); not because Ubuntu is superior but because it was what I was most familiar using.
 
-As you might imagine, this is not a formal effort and if you choose to use what I have made available here on this site, everything you do is "at your own risk". You have been warned.
+This is not a formal/production ready effort and if you choose to use what I have made available here on this site, everything you do is "at your own risk". You have been warned.
 
 If you find an issue, I would appriciate you letting me know via email monteymonero@gmail.com
 
