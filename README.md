@@ -34,7 +34,7 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
         tmux
         minicom
         openssh
-            Port 22022
+        glances
     # gcc 7.1
     sudo add-apt-repository ppa:jonathonf/gcc-7.1
     sudo apt-get update
@@ -44,8 +44,8 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
         vm.nr_hugepages=512
         vm.vfs_cache_pressure=50
         create user 
-            adduser ccminer
-            usermod -aG sudo ccminer
+            adduser <username>
+            usermod -aG sudo username
             Edit /etc/sudoers with visudo
             
          Enable Auto-login
@@ -53,7 +53,7 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
          Insert Following into file:
          [SeatDefaults]
          greeter-session=lightdm-gtk-greeter
-         autologin-user=ccminer 
+         autologin-user=username 
          autologin-user-timeout=0
 
             
