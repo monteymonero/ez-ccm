@@ -40,6 +40,11 @@ Cubic is an acronym for a GUI application to create a customized bootable Ubuntu
     sudo apt-get update
     sudo apt-get install gcc-7 g++-7
 ### Things to adjust:
+
+        ### EDIT sysctl.conf
+        
+        /etc/sysctl.conf
+        
         vm.swapiness=10
         vm.nr_hugepages=512
         vm.vfs_cache_pressure=50
